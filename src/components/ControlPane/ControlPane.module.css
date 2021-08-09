@@ -12,6 +12,10 @@
   margin-bottom: 32px;
 }
 
+.buttonRowOverflow {
+  color: green;
+}
+
 .title {
   margin: 0;
   /* Optical centering */
